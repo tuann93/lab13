@@ -1,0 +1,20 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://scr.vn/wp-content/uploads/2020/07/H%C3%ACnh-4k-Anime.jpg);
+  height: 70vh;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://3.bp.blogspot.com/-oe9oD3r4mqA/WVpJl7qfU7I/AAAAAAAAoaA/Sk4vBAEMc9Yee6YrO_XMta9NR-9Bxi3UwCLcBGAs/s1600/8a7e09d5f73dc4d0bad4e173e926d722.jpg);
+  height: 70vh;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://img2.thuthuatphanmem.vn/uploads/2019/03/02/anh-nen-powerpoint_012323041.jpg);
+  height: 70vh;
+}
